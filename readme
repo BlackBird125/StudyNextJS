@@ -1,0 +1,4 @@
+✅ getStaticProps で 静的データを取得（SSG）
+✅ getStaticPaths で 動的ルートを事前生成
+✅ API Routes で サーバーサイド API を作成
+✅ fetch を使って クライアント側からデータ取得
