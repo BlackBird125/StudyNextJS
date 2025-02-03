@@ -1,0 +1,46 @@
+# Node.js 関連
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+pnpm-error.log*
+
+# 環境変数ファイル（認証情報などを含む）
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js 出力フォルダ
+.next/
+out/
+
+# TypeScript ビルド出力
+*.tsbuildinfo
+
+# ログファイル
+logs/
+*.log
+yarn.lock
+pnpm-lock.yaml
+
+# OS / エディタ関連の不要ファイル
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jest / Testing 関連
+coverage/
+jest-cache/
+jest-transform-cache/
+
+# Storybook 関連
+.storybook-out/
+
+# その他
+*.bak
